@@ -1,30 +1,50 @@
-### Olá eu sou 👋 Luciana Diemert
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi! Welcome to my profile
 
+Full Stack student, with no experience, looking for opportunities in Development (back-end, front-end, database).
 
-- 🔭 I’m currently working the Front-End
-- 🌱 I’m currently learning HTML, CSS, JavaScript 💻
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about : I am in career transition
+I'm focused on studying the most current languages ​​for web development to become a developer
+full stack.
 
+<details>
+<summary>More about me</summary>
+ - Graduation in Systems Analysis and Development Technology - University - IBTA.
+ - I am in career transition to the Technology area, professional IT experience was 08 years in Data Center Technical Support.
+</details>
 
+---
+
+## 📌 Skills
+
+![HTML5 badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3 badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![JavaScript badge](https://img.shields.io/badge/-JavaScript-F29400?style=flat-square&logo=javascript&logoColor=white)
+
+---
+
+## 📚 Learning
+
+![](https://img.shields.io/badge/‎-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-HTML-CC342D?logo=html5&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-CSS-1572B6?logo=css3&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-NodeJS-339933?logo=Node.js&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-Git-F05032?logo=git&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-GitHub-181717?logo=github&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
+
+---
+
+## 📱 Contact
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/ludiemert)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/lucianadiemert)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:lucianadiemert@gmail.com)
+
+---
+## GITHUB
 <div align="center">
   <a href="https://github.com/ludiemert">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ludiemert&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludiemert&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- </div>
-
-<div style="display: inline_block"><br>
-  <a href="https://instagram.com/luciana_die" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-             badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://discord.gg/LuDiem#0654" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lucianadiemert@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/lucianadiemert" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  
-  </div>
+---
