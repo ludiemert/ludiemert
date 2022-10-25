@@ -9,6 +9,32 @@ full stack.
 <summary>More about me</summary>
  - Graduation in Systems Analysis and Development Technology - University - IBTA.
  - I am in career transition to the Technology area, professional IT experience was 08 years in Data Center Technical Support.
+ 
+ ---
+ 
+ <summary>Frameworks and Libraries</summary>
+ 
+  React, Vite, Tailwind_CSS, Insomnia, Node.js, Radix
+  
+  ---
+  
+  <summary>Terminal and Version control</summary>
+  
+  GIT, Linux.
+ 
+ 
+  ---
+  
+  
+  <summary>Cloud</summary>
+  
+  Vercel.
+   
+   ---
+   <summary>Office</summary>
+  
+  Notion.
+  
 </details>
 
 ---
@@ -32,6 +58,7 @@ full stack.
 ![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
 
 ---
+ 
 
 ## 📱 Contact
 
@@ -40,6 +67,7 @@ full stack.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:lucianadiemert@gmail.com)
 
 ---
+
 ## GITHUB
 <div align="center">
   <a href="https://github.com/ludiemert">
