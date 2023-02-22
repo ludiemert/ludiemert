@@ -1,9 +1,9 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi! Welcome to my profile
 
-Full Stack student, with no experience, looking for opportunities in Development (back-end, front-end, database).
+Full Stack student, with no experience, looking for oportunities in Development (front-end and back-end).
 
-I'm focused on studying the most current languages ​​for web development to become a developer
-full stack.
+I'm focused on studying the most current languages ​​for Web Development to become a developer
+Full-Stack.
 
 <details>
 <summary>More about me</summary>
@@ -12,50 +12,49 @@ full stack.
  
  ---
  
- <summary>Frameworks and Libraries</summary>
- 
-  React, Vite, Tailwind_CSS, Insomnia, Node.js, Radix
-  
-  ---
-  
-  <summary>Terminal and Version control</summary>
-  
-  GIT, Linux.
- 
- 
-  ---
-  
-  
-  <summary>Cloud</summary>
-  
-  Vercel.
-   
-   ---
-   <summary>Office</summary>
-  
-  Notion.
-  
-</details>
+ #
 
----
+### 🚀Frameworks e Bibliotecas:
+<div style="display:flex">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
+  <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
+  <img src="https://img.shields.io/badge/Radix-2?style=for-the-badge">
 
-## 📌 Skills
+</div>
 
-![HTML5 badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3 badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![JavaScript badge](https://img.shields.io/badge/-JavaScript-F29400?style=flat-square&logo=javascript&logoColor=white)
+### 👨‍💻Languages:
+<div style="display:flex">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=black">
+</div>
 
----
+### 💻Terminal & Version control:
+<div style="display:flex">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/linux%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
+  <img src="https://img.shields.io/badge/Git%20Kraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white">
 
-## 📚 Learning
+</div>
 
-![](https://img.shields.io/badge/‎-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-HTML-CC342D?logo=html5&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-CSS-1572B6?logo=css3&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-NodeJS-339933?logo=Node.js&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-Git-F05032?logo=git&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-GitHub-181717?logo=github&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
+### ☁Cloud:
+<div style="display:flex">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+</div>
+
+### 👨‍💻Office:
+<div style="display:flex">
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+</div>
 
 ---
  
