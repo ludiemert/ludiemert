@@ -6,13 +6,13 @@
  - Professional Experience: 8 years of experience in Data Center Technical Support, acquiring a solid foundation in problem-solving and technical support.
 
 #### Summary: <br>
-• Junior Full Stack Developer with a background in IT support, currently transitioning in my career. I specialize in HTML, CSS, JavaScript, TypeScript, React.js, Angular, Node.js, Tailwind CSS, Next.js, and more.
+• Junior Full Stack Developer with a background in IT support, currently transitioning in my career. I specialize in HTML, CSS, JavaScript, TypeScript, React.js, Node.js, Tailwind CSS, Next.js, and more.
 • I have a proven ability to enhance project delivery speed, optimize application performance, and boost customer satisfaction through custom design solutions and responsive interfaces.
 • Presently, I am working as a volunteer in a company, collaborating with multiple teams across various countries (Brazil, Germany, Bolivia).
 
 #### Skills: <br>
 • Programming Languages: HTML, CSS, JavaScript, TypeScript 
-• Frontend Frameworks/Libraries: React.js, Angular, Tailwind CSS, Bootstrap 
+• Frontend Frameworks/Libraries: React.js, Tailwind CSS, Bootstrap 
 • Backend Technologies: Node.js, Fastify, Express.js
 • Database: SQL (PostgreSQL, MySQL)
 • Version Control: Git, GitHub
@@ -41,7 +41,6 @@ I am seeking challenging opportunities that allow me to contribute significantly
 #### 🚀 Frontend Frameworks/Libraries:
 <div style="display:flex">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
