@@ -6,7 +6,7 @@
  - Professional Experience: 8 years of experience in Data Center Technical Support, acquiring a solid foundation in problem-solving and technical support.
 
 #### Summary: <br>
-• Junior Full Stack Developer with a background in IT support, currently transitioning in my career. I specialize in HTML, CSS, JavaScript, TypeScript, React.js, Node.js, Tailwind CSS, Next.js, and more.
+• Full Stack Developer with a background in IT support, currently transitioning in my career. I specialize in HTML, CSS, JavaScript, TypeScript, React.js, Node.js, Tailwind CSS, Next.js, and more.
 • I have a proven ability to enhance project delivery speed, optimize application performance, and boost customer satisfaction through custom design solutions and responsive interfaces.
 • Presently, I am working as a volunteer in a company, collaborating with multiple teams across various countries (Brazil, Germany, Bolivia).
 
