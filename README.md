@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi! Welcome to my profile
 
-- With a degree in Systems Analysis and Development from IBTA and 8 years of technical experience in Data Center support, I am transitioning to the Information Technology sector, focusing on Full Stack software development. I am currently expanding my knowledge to areas such as Artificial Intelligence (AI) and Computer Vision, constantly seeking to apply these technologies to improve web development.
+- I have a degree in Systems Analysis and Development from IBTA and 8 years of technical experience in Data Center support, currently focusing on Full Stack software development. I am currently expanding my knowledge to areas such as Artificial Intelligence (AI) and Computer Vision, constantly seeking to apply these technologies to improve web development.
 
 - My passion is to create innovative and dynamic solutions, integrating Front-end and Back-end with the potential of AI. I believe that these skills allow me to go beyond traditional development, creating applications that transform the user experience through responsive interfaces and advanced image and video processing.
 
