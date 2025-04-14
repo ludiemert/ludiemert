@@ -75,33 +75,66 @@ Here on GitHub, you can explore my projects that highlight my skills in:
 - Web Performance Optimization  
 - Clean, Responsive UI/UX Design  
 
-## 🚀 Recent Projects
+---
 
-### 1. AI Credit Score Prediction
-- Built ML model predicting credit scores with 80% accuracy
-- Technologies: Python, Scikit-learn, Pandas
-- Features: Data preprocessing, Random Forest & KNN classifiers
-- 🔗 <a href="https://github.com/ludiemert/IA_predictions_Python" target="_blank">View Project</a>
+## 🚀 Featured Projects
 
-### 2. Customer Churn Analysis
-- Reduced predicted churn rate from 50% to 18% through data insights
-- Technologies: Python, Pandas, Plotly
-- Features: Data visualization, statistical analysis
-- 🔗 <a href="https://github.com/ludiemert/Data_analysis_PY" target="_blank">View Project</a>
+<div align="center">
+  <table>
+    <!-- First Row -->
+    <tr>
+      <td width="50%">
+        <h3 align="center">AI Credit Score Prediction</h3>
+        <div align="center">
+          <p>ML model predicting credit scores with 80% accuracy</p>
+          <p><b>Tech:</b> Python | Scikit-learn | Pandas</p>
+           <p><b>Features:</b> Data preprocessing |  Random Forest & KNN classifiers</p>
+        <a href="https://github.com/ludiemert/IA_predictions_Python" target="_blank">
+            <img src="https://img.shields.io/badge/-View_Project-5C6BC0?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Customer Churn Analysis</h3>
+        <div align="center">
+          <p>Reduced churn rate from 50% to 18%</p>
+          <p><b>Tech:</b> Python | Pandas | Plotly</p>
+            <p><b>Features:</b> Data visualization |  statistical analysis</p>
+          <a href="https://github.com/ludiemert/Data_analysis_PY" target="_blank">
+            <img src="https://img.shields.io/badge/-View_Project-5C6BC0?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </div>
+      </td>
+    </tr>
+    <!-- Second Row -->
+    <tr>
+      <td width="50%">
+        <h3 align="center">Automation System</h3>
+        <div align="center">
+          <p>Saved hundreds of manual hours</p>
+          <p><b>Tech:</b> Python | PyAutoGUI | OpenCV</p>
+             <p><b>Features:</b> DRPA |  Web scraping |  </p>
+          <a href="https://github.com/ludiemert/Python_Task_Automation" target="_blank">
+            <img src="https://img.shields.io/badge/-View_Project-5C6BC0?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Real-time Chat App</h3>
+        <div align="center">
+          <p>Live chat for web/mobile</p>
+          <p><b>Tech:</b> Python | Flask | WebSockets</p>
+            <p><b>Features:</b> WebSockets |  real-time communication |  </p>
+          <a href="https://github.com/ludiemert/chat_friends_PY" target="_blank">
+            <img src="https://img.shields.io/badge/-View_Project-5C6BC0?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-
-### 3. Automation System
-- Automated product registration system saving hundreds of hours
-- Technologies: Python, PyAutoGUI, Pandas
-- Features: RPA, Web scraping, batch processing
-- 🔗 <a href="https://github.com/ludiemert/Python_Task_Automation" target="_blank">View Project</a>
-
-
-### 4. Real-time Chat Application
-- Developed live chat for web and mobile using Electron
-- Technologies: Python, Flask, JavaScript
-- Features: WebSockets, real-time communication
-- 🔗 <a href="https://github.com/ludiemert/chat_friends_PY" target="_blank">View Project</a>
+-----
 
 
 ---
