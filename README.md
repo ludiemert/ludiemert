@@ -2,8 +2,6 @@
 
 <p align="center">🌍 Full Stack Developer | AI & Computer Vision Enthusiast | Passionate about building smart & scalable web solutions</p>
 
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=5C6BC0&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+Computer+Vision+Enthusiast;Data+Center+Specialist;Continuous+Learner" alt="Typing SVG" />
 </p>
@@ -77,8 +75,6 @@ Here on GitHub, you can explore my projects that highlight my skills in:
 - Web Performance Optimization  
 - Clean, Responsive UI/UX Design  
 
----
-
 ## 🚀 Recent Projects
 
 ### 1. AI Credit Score Prediction
@@ -109,6 +105,7 @@ Here on GitHub, you can explore my projects that highlight my skills in:
 
 
 ---
+
 ## 📚 Currently Learning
 
 ```text
@@ -122,8 +119,6 @@ DevOps Roadmap:
 👉 Container Orchestration
 
 ```
-
-
 
 ## 📈 GitHub Stats
 
@@ -148,4 +143,3 @@ DevOps Roadmap:
   </a>
 </p>
 
----
