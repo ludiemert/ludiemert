@@ -109,6 +109,21 @@ Here on GitHub, you can explore my projects that highlight my skills in:
 
 
 ---
+## 📚 Currently Learning
+
+```text
+DevOps Roadmap:
+✅ Fundamentals of DevOps
+✅ CALMS Principles
+✅ Docker & Containerization
+👉 CI/CD Automation
+👉 Terraform
+👉 Infrastructure as Code (IaC)
+👉 Container Orchestration
+
+```
+
+
 
 ## 📈 GitHub Stats
 
