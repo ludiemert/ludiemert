@@ -77,19 +77,6 @@ Here on GitHub, you can explore my projects that highlight my skills in:
 - Web Performance Optimization  
 - Clean, Responsive UI/UX Design  
 
-### 4. Real-time Chat Application  
-- Developed live chat for web and mobile using Electron  
-- Technologies: Python, Flask, JavaScript  
-- Features: WebSockets, real-time communication  
-- 🔗 <a href="https://github.com/ludiemert/chat_friends_PY" target="_blank">View Project</a>
-
-
-<a href="https://github.com/ludiemert/chat_friends_PY" target="_blank" rel="noopener noreferrer">View Project</a>
-
-
-> 📌 Feel free to explore the pinned repositories!
-
-
 ---
 
 ## 🚀 Recent Projects
@@ -98,25 +85,29 @@ Here on GitHub, you can explore my projects that highlight my skills in:
 - Built ML model predicting credit scores with 80% accuracy
 - Technologies: Python, Scikit-learn, Pandas
 - Features: Data preprocessing, Random Forest & KNN classifiers
-- [View Project](#)
+- 🔗 <a href="https://github.com/ludiemert/IA_predictions_Python" target="_blank">View Project</a>
 
 ### 2. Customer Churn Analysis
 - Reduced predicted churn rate from 50% to 18% through data insights
 - Technologies: Python, Pandas, Plotly
 - Features: Data visualization, statistical analysis
-- [View Project](#)
+- 🔗 <a href="https://github.com/ludiemert/Data_analysis_PY" target="_blank">View Project</a>
+
 
 ### 3. Automation System
 - Automated product registration system saving hundreds of hours
 - Technologies: Python, PyAutoGUI, Pandas
 - Features: RPA, Web scraping, batch processing
-- [View Project](#)
+- 🔗 <a href="https://github.com/ludiemert/Python_Task_Automation" target="_blank">View Project</a>
+
 
 ### 4. Real-time Chat Application
 - Developed live chat for web and mobile using Electron
 - Technologies: Python, Flask, JavaScript
 - Features: WebSockets, real-time communication
-- [View Project](#)
+- 🔗 <a href="https://github.com/ludiemert/chat_friends_PY" target="_blank">View Project</a>
+
+
 ---
 
 ## 📈 GitHub Stats
