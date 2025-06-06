@@ -1,9 +1,9 @@
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Luciana</h1>
 
-<p align="center">🌍 Full Stack Developer | AI & Computer Vision Enthusiast | Passionate about building smart & scalable web solutions</p>
+<p align="center">🌍  | AI & Computer Vision 🥰 | Full Stack Developer 🥰 | Passionate about building smart & scalable web solutions</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=5C6BC0&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+Computer+Vision+Enthusiast;Data+Center+Specialist;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=5C6BC0&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+Computer+Vision;Data+Center+Specialist;Continuous+Learner" alt="Typing SVG" />
 </p>
 
 ---
