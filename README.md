@@ -108,11 +108,32 @@ DevOps Roadmap:
 
 ```
 
+
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ludiemert&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludiemert&layout=compact&langs_count=7&theme=dracula"/>
+
+  <!-- Perfil completo: commits, PRs, issues, contribuições -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ludiemert&theme=dracula" />
+
+  <!-- Estatísticas gerais -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ludiemert&theme=dracula" />
+
+  <!-- Linguagens mais usadas (% por commits)
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/languages-by-commit?username=ludiemert&theme=dracula" />  -->
+
+  <!-- Linguagens mais usadas (% por repositório)
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/languages-by-repo?username=ludiemert&theme=dracula" />  -->
+
+  <!-- Horário mais produtivo (Irlanda = UTC +0) -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ludiemert&theme=dracula&utcOffset=0" /> 
+
+  <!-- Linguagens por número de repositórios -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ludiemert&theme=dracula" />
+
+  <!-- Linguagens mais usadas por commits -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ludiemert&theme=dracula" />
+
 </p>
 
 ---
